@@ -50,7 +50,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     if (foundUser) {
         alert(`Welcome back, ${username}!`);
         // Redirect to another page upon successful login
-        window.location.href = "https://bharath2521.github.io/I-TECH-WEB/"; // Replace with your desired URL
+        window.location.href = "https://bharath9325.github.io/I-TECH-WEB/"; // Replace with your desired URL
     } else {
         alert("Incorrect username or password.");
     }
